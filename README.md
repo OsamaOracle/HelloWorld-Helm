@@ -5,6 +5,7 @@ This project demonstrates a simple Hello World SpringBoot MySQL application and 
 The project consist of 2 charts :
 
 1)Helm chart for Hello World application
+
 2)Helm chart for MySQL with persistence storage
 
 Pre-Requesites To Run The Project :
