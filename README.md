@@ -5,18 +5,27 @@ This project demonstrates a simple Hello World SpringBoot MySQL application and 
 The project consist of 2 charts :
 
 1)Helm chart for Hello World application
+
 2)Helm chart for MySQL with persistence storage
 
 Pre-Requesites To Run The Project :
 
 Kubernetes Client Version : v1.15.3
+
 Kubernetes Server Version : v1.15.12
+
 Helm Chart Client Version : v2.14.3
+
 Helm Chart Server Version : v2.14.3
+
 Docker Version : 19.03.5
+
 openjdk version "1.8.0_272"
+
 OpenJDK Runtime Environment (build 1.8.0_272-8u272-b10-0ubuntu1~16.04-b10)
+
 OpenJDK 64-Bit Server VM (build 25.272-b10, mixed mode)
+
 Apache Maven 3.3.9
 
 Steps To Run The Project :
